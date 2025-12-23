@@ -81,12 +81,23 @@ public class YouTubeService {
                         video.getSnippet().getPublishedAt().toString(),
                         parseDuration(video.getContentDetails().getDuration()),
                         "https://www.youtube.com/watch?v=" + video.getId(),
-                        List.of("Java", "SpringBoot")
+                        List.of("Java"),
+                        getThumbnailUrl(video)
                 );
                 videoInfoList.add(videoInfo);
             }
         }
         return new Videos(videoInfoList);
+    }
+
+    private String getThumbnailUrl(Video video) {
+        ThumbnailDetails thumbnails = video.getSnippet().getThumbnails();
+        if(thumbnails.getStandard() != null) {
+            return thumbnails.getStandard().getUrl();
+        } else if(thumbnails.getDefault() != null) {
+            return thumbnails.getDefault().getUrl();
+        }
+        return null;
     }
 
     public List<String> getAllVideoIdsFromChannel(String handle) throws Exception {

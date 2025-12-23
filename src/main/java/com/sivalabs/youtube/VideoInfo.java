@@ -11,4 +11,5 @@ public record VideoInfo(String title,
                         String publishedAt,
                         String duration,
                         String url,
-                        List<String> tags) {}
+                        List<String> tags,
+                        String thumbnailUrl) {}

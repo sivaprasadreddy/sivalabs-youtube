@@ -9,7 +9,8 @@
         "API Versioning",
         "Java",
         "REST API"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xDMjJuF4fDk/sddefault.jpg"
     },
     {
       "title": "Spring Boot 4 + jSpecify : Say Goodbye to NullPointerExceptions",
@@ -22,7 +23,8 @@
         "Spring Boot 4",
         "SpringBoot",
         "jSpecify"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/p3v8wJG3-zo/sddefault.jpg"
     },
     {
       "title": "Migrating To Spring Boot 4",
@@ -34,7 +36,8 @@
         "Migration",
         "Spring Boot 4",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ENpq2J5yQ8Y/sddefault.jpg"
     },
     {
       "title": "Remote Debugging Spring AI + Docker Model Runner Issue From IntelliJ IDEA",
@@ -49,7 +52,8 @@
         "IntelliJ IDEA",
         "Java",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wwaBx6yohMg/sddefault.jpg"
     },
     {
       "title": "Code Review Buddy | EP02 - Avoid Common Spring Boot Mistakes",
@@ -60,7 +64,8 @@
         "Code Review",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UHtbeqbk65Q/sddefault.jpg"
     },
     {
       "title": "Code Review Buddy | EP01 - Review Spring Boot REST API",
@@ -72,7 +77,8 @@
         "Java",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dIMfe1gnWyc/sddefault.jpg"
     },
     {
       "title": "My Unfiltered Thoughts on Quarkus",
@@ -81,10 +87,11 @@
       "url": "https://www.youtube.com/watch?v=fWJEC_qHUQ4",
       "tags": [
         "Quarkus"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fWJEC_qHUQ4/sddefault.jpg"
     },
     {
-      "title": "\ud83d\ude80  Spring AI Complete Tutorial (3 Hours)",
+      "title": "🚀  Spring AI Complete Tutorial (3 Hours)",
       "publishedAt": "2025-09-15T13:45:09.000Z",
       "duration": "179:45",
       "url": "https://www.youtube.com/watch?v=hmWHfB2ixu0",
@@ -93,7 +100,8 @@
         "Complete Course",
         "Java",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hmWHfB2ixu0/sddefault.jpg"
     },
     {
       "title": "Building AI Agents using Java and Embabel",
@@ -104,7 +112,8 @@
         "AI",
         "Embabel",
         "Java"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lqQ_NL4y5Qg/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial : 10 - Model Context Protocol (MCP)",
@@ -116,7 +125,8 @@
         "Java",
         "MCP",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/z9H-qgbJNHI/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial : 09 - Extend LLMs Capabilities using Tool Calling",
@@ -128,7 +138,8 @@
         "Function Calling",
         "Java",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LJCnpsdhPlQ/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial : 08 - Retrieval Augmented Generation (RAG)",
@@ -140,7 +151,8 @@
         "Java",
         "RAG",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uUmdAa5OF9k/sddefault.jpg"
     },
     {
       "title": "Spring Modulith Workshop - Convert a Monolithic Application into Modular Monolith",
@@ -152,7 +164,8 @@
         "Modular Monolith",
         "Spring Modulith",
         "Workshop"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UXe6xuV-URY/default.jpg"
     },
     {
       "title": "Spring AI Tutorial : 07 - Chat Memory",
@@ -164,7 +177,8 @@
         "Chat Memory",
         "Java",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LTkch_PO2mM/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial : 06 - Structured Output",
@@ -175,7 +189,8 @@
         "AI",
         "Java",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MpTNOhJ_Jjk/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial : 05 - Prompt Templates",
@@ -187,7 +202,8 @@
         "Java",
         "Prompt Engineering",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cGEBrJlpvyk/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial : 04 - Chat with Anthropic Claude Models",
@@ -199,7 +215,8 @@
         "Anthropic",
         "Java",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/v_MmSCsdnpo/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial : 03 - Chat with Ollama",
@@ -211,7 +228,8 @@
         "Java",
         "Ollama",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HLiZfHuiwsQ/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial : 02 - Chat with Gemini, Groq, OpenRouter, Docker Model Runner for FREE",
@@ -225,7 +243,8 @@
         "Groq",
         "Java",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/efRd68orIqY/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial : 01 - Chat with OpenAI",
@@ -237,7 +256,8 @@
         "Java",
         "OpenAI",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/djb3KRV-cno/sddefault.jpg"
     },
     {
       "title": "Spring AI Tutorial - Course Overview",
@@ -248,7 +268,8 @@
         "AI",
         "Java",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oP7tn_YfoOk/sddefault.jpg"
     },
     {
       "title": "How to Log SQL Queries with Parameter Values?",
@@ -258,7 +279,8 @@
       "tags": [
         "Database",
         "SQL"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YUxc1vBMn6A/sddefault.jpg"
     },
     {
       "title": "Spring AI: Build a Blogging Machine",
@@ -270,7 +292,8 @@
         "Java",
         "Logging",
         "Spring AI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/X3Anoqoj7XA/sddefault.jpg"
     },
     {
       "title": "IntelliJ IDEA Workspaces: Dev Setup Made Simple",
@@ -281,7 +304,8 @@
         "IDE Tips",
         "IntelliJ IDEA",
         "Workspace"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ocoQ4QK9h4I/sddefault.jpg"
     },
     {
       "title": "Bootify - Generate Production Grade Spring Boot Applications in Minutes",
@@ -293,7 +317,8 @@
         "Code Generation",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Lyj4of6FO4w/sddefault.jpg"
     },
     {
       "title": "First Look at JetBrains Junie",
@@ -303,7 +328,8 @@
       "tags": [
         "AI Assistant",
         "JetBrains Junie"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qqqzIBeYoWY/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Complete Course (5 Hours)",
@@ -316,7 +342,8 @@
         "Project Tutorial",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XEgS8yq-zgw/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 12: Dockerizing Spring Boot Application",
@@ -329,7 +356,8 @@
         "Project Tutorial",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/su9Z0d2YHhs/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 11: Working with DB using JdbcClient",
@@ -343,7 +371,8 @@
         "Project Tutorial",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/A8AmAmqA6uQ/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 10: Method Level Security and Role Hierarchy",
@@ -357,7 +386,8 @@
         "Spring Security",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WsLyB-8ZpuI/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 9: Spring Data JPA Pagination",
@@ -373,7 +403,8 @@
         "Spring Data JPA",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DgkFdiIVyKA/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 8: Private Short URLs for Authenticated Users",
@@ -385,7 +416,8 @@
         "Project Tutorial",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fHs-ueL3wm0/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 7: Secure Web Applications using Spring Security",
@@ -399,7 +431,8 @@
         "Spring Security",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-le-Iv-qCNs/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 6: URL Redirection and Exception Handling",
@@ -412,7 +445,8 @@
         "Project Tutorial",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_pIWaUfI29I/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 5: Thymeleaf Form Submission & Validations",
@@ -426,7 +460,8 @@
         "Thymeleaf",
         "URL Shortener",
         "Web"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qaOTW_eZKiw/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 4: Solving JPA/Hibernate LazyLoadingException",
@@ -440,7 +475,8 @@
         "Project Tutorial",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3zSGp2BkAk0/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 3: Working with Spring Data JPA",
@@ -455,7 +491,8 @@
         "Spring Data JPA",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1XAf6BK_8lg/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener - Part 2: Project Setup",
@@ -467,7 +504,8 @@
         "Project Tutorial",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AvZjSrJzgWM/sddefault.jpg"
     },
     {
       "title": "Spring Boot: Build URL Shortener Application - Part 1: Introduction",
@@ -479,7 +517,8 @@
         "Project Tutorial",
         "SpringBoot",
         "URL Shortener"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gYfbTg6NUEs/sddefault.jpg"
     },
     {
       "title": "Spring Boot Microservices Root Project Setup",
@@ -490,7 +529,8 @@
         "Java",
         "Microservices",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IVf6FL0a6qg/sddefault.jpg"
     },
     {
       "title": "IntelliJ IDEA Tips: Run Commands Quickly using \"Run Anything\"",
@@ -500,7 +540,8 @@
       "tags": [
         "IDE Tips",
         "IntelliJ IDEA"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5n-7TjMaj7I/sddefault.jpg"
     },
     {
       "title": "Why You Should NOT Use Lombok @Data Annotation with JPA Entities",
@@ -513,7 +554,8 @@
         "JPA",
         "Java",
         "Lombok"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GOiU5i3lupY/sddefault.jpg"
     },
     {
       "title": "Spring Boot Microservices Complete Tutorial",
@@ -525,7 +567,8 @@
         "Java",
         "Microservices",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZKQWwCUEABY/sddefault.jpg"
     },
     {
       "title": "IntelliJ IDEA Tips for Java Developers - Code Faster",
@@ -536,7 +579,8 @@
         "IDE Tips",
         "IntelliJ IDEA",
         "Java"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Kiry69tEIOE/sddefault.jpg"
     },
     {
       "title": "Spring Boot: From Zero to Hero - Aspect Oriented Programming (AOP)",
@@ -548,7 +592,8 @@
         "Beginner Friendly",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0AHhdiTjvLs/sddefault.jpg"
     },
     {
       "title": "IntelliJ IDEA Tips: Inject Spring Bean Dependencies like a BOSS",
@@ -559,7 +604,8 @@
         "IDE Tips",
         "IntelliJ IDEA",
         "Java"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ndFWAp6MUwA/sddefault.jpg"
     },
     {
       "title": "IntelliJ IDEA Tips: Create Logger Instance in a Snap",
@@ -569,7 +615,8 @@
       "tags": [
         "IDE Tips",
         "IntelliJ IDEA"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EMdQbeGHvec/sddefault.jpg"
     },
     {
       "title": "Spring Boot: From Zero to Hero - Database Design & Flyway Migrations",
@@ -583,7 +630,8 @@
         "Java",
         "Migration",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fTcyyxs3ZXI/sddefault.jpg"
     },
     {
       "title": "Spring Boot: From Zero to Hero - WebApp Layout using Thymeleaf and WebJars",
@@ -597,7 +645,8 @@
         "Thymeleaf",
         "Web",
         "WebJars"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sk1VSRaisgc/sddefault.jpg"
     },
     {
       "title": "Spring Boot: From Zero to Hero - Know Most Commonly Used Spring Boot Annotations",
@@ -609,7 +658,8 @@
         "Beginner Friendly",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UrMFQv4LP8Q/sddefault.jpg"
     },
     {
       "title": "Spring Boot: From Zero to Hero - Spring Dependency Injection",
@@ -621,7 +671,8 @@
         "Dependency Injection",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/K3gwFva5EQI/sddefault.jpg"
     },
     {
       "title": "Spring Boot: From Zero to Hero - Explore Spring Boot Application Structure",
@@ -632,7 +683,8 @@
         "Beginner Friendly",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ORX0YuqVXIM/sddefault.jpg"
     },
     {
       "title": "Spring Boot: From Zero to Hero : Development Environment Setup",
@@ -643,7 +695,8 @@
         "Beginner Friendly",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vhntJku3UK8/sddefault.jpg"
     },
     {
       "title": "Spring Boot From Zero To Hero - A Hands-On Complete Tutorial",
@@ -655,7 +708,8 @@
         "Complete Course",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Yi6NTOwGbTM/sddefault.jpg"
     },
     {
       "title": "Spring Boot Scheduled Jobs",
@@ -666,7 +720,8 @@
         "Java",
         "Scheduling",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RNeNk-nbbq4/sddefault.jpg"
     },
     {
       "title": "How to use Spring Data JPA Derived Query Methods?",
@@ -678,7 +733,8 @@
         "JPA",
         "Java",
         "Spring Data JPA"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eSaXN7WqQKI/sddefault.jpg"
     },
     {
       "title": "Generate JPA Entities and Repositories using IntelliJ IDEA JPA Buddy Plugin",
@@ -692,7 +748,8 @@
         "JPA",
         "JPA Buddy",
         "Java"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z0BLy3UVI5Q/sddefault.jpg"
     },
     {
       "title": "My IntelliJ IDEA SetUp for Java Development",
@@ -703,7 +760,8 @@
         "IDE Tips",
         "IntelliJ IDEA",
         "Java"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HJYybOuPym4/sddefault.jpg"
     },
     {
       "title": "Spring Modulith Crash Course : Building Modular Monoliths using Spring Boot",
@@ -716,7 +774,8 @@
         "Modular Monolith",
         "Spring Modulith",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FkP2aZiBrhg/sddefault.jpg"
     },
     {
       "title": "Spring Boot Thymeleaf HTMX Tutorial",
@@ -729,7 +788,8 @@
         "SpringBoot",
         "Thymeleaf",
         "Web"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/T6dU3GZf6DA/sddefault.jpg"
     },
     {
       "title": "Spring Boot Docker Compose Support : Local Development Made Simple",
@@ -741,7 +801,8 @@
         "Docker Compose",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PZt5EJTLH4o/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial: Conclusion",
@@ -752,7 +813,8 @@
         "Java",
         "Microservices",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wXlujjCcPT0/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial: Observability using Prometheus, Loki, Tempo and Grafana",
@@ -771,7 +833,8 @@
         "SpringBoot",
         "Tempo",
         "Tracing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/71Qw1sOWHwE/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial : Securing MicroServices using Spring Security OAuth2",
@@ -784,7 +847,8 @@
         "Security",
         "Spring Security",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_2e7nfgH-u8/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial: Building BookStore WebApp using Thymeleaf and Alpine.js",
@@ -799,7 +863,8 @@
         "SpringBoot",
         "Thymeleaf",
         "Web"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lx3WQ2Ag1e8/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial : API Gateway using Spring Cloud Gateway",
@@ -813,7 +878,8 @@
         "REST API",
         "Spring Cloud Gateway",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/n2QiHmn2o4E/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial : Implementing Notification Service",
@@ -824,7 +890,8 @@
         "Java",
         "Microservices",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/a1WYLukl_cc/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial : Implement Get Orders APIs",
@@ -836,7 +903,8 @@
         "Microservices",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IXO0mIYVU5c/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial : Publish Order Events to RabbitMQ using Outbox Pattern",
@@ -850,7 +918,8 @@
         "Outbox Pattern",
         "RabbitMQ",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YM2RRrSgGaA/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial : RestClient with Resilience4j Patterns Applied",
@@ -864,7 +933,8 @@
         "Resilience Patterns",
         "Resilience4j",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vEPYtL_Vusc/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial: Implementing Create Order API",
@@ -876,7 +946,8 @@
         "Microservices",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rakXLMlJ-8k/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial: Order Service Walking Skeleton Setup",
@@ -887,7 +958,8 @@
         "Java",
         "Microservices",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UzkEFyqsC00/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial : Dockerizing Catalog Service",
@@ -899,7 +971,8 @@
         "Java",
         "Microservices",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LoNmjs_Nks8/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial: Implementing Catalog Service APIs",
@@ -911,7 +984,8 @@
         "Microservices",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wJNFtkPqn2g/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial: Catalog Service Walking Skeleton Setup",
@@ -922,7 +996,8 @@
         "Java",
         "Microservices",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/T75K_cbUYwE/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial - Introduction to Microservices Architecture",
@@ -933,7 +1008,8 @@
         "Java",
         "Microservices",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Kr4d4kcpizI/sddefault.jpg"
     },
     {
       "title": "Spring Boot MicroServices  Tutorial - Project Based Learning",
@@ -944,7 +1020,8 @@
         "Java",
         "Microservices",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ygraiu4hDJE/sddefault.jpg"
     },
     {
       "title": "Spring Boot REST API Anti-Patterns and Best Practices",
@@ -956,7 +1033,8 @@
         "Java",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/koxu51eqDiQ/sddefault.jpg"
     },
     {
       "title": "Generative AI Conversations using LangChain4j ChatMemory",
@@ -966,7 +1044,8 @@
       "tags": [
         "AI",
         "LangChain4j"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yB6X_AbLh8E/sddefault.jpg"
     },
     {
       "title": "Getting Started with Generative AI using Java, LangChain4j, OpenAI and Ollama",
@@ -979,7 +1058,8 @@
         "LangChain4j",
         "Ollama",
         "OpenAI"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ld0ZU6bd9bM/sddefault.jpg"
     },
     {
       "title": "Automatically Upgrade Your Application Dependent Libraries using Renovate",
@@ -989,7 +1069,8 @@
       "tags": [
         "Dependency Management",
         "Renovate"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XxfnOEbPreo/sddefault.jpg"
     },
     {
       "title": "5 Java Libraries You Should Know",
@@ -998,7 +1079,8 @@
       "url": "https://www.youtube.com/watch?v=sHZGv0PklQ0",
       "tags": [
         "Java"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sHZGv0PklQ0/sddefault.jpg"
     },
     {
       "title": "Modern Spring Boot Application Development using Java 17/21 and Testcontainers",
@@ -1012,17 +1094,19 @@
         "SpringBoot",
         "Testcontainers",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/q2LSz7cnC1g/sddefault.jpg"
     },
     {
-      "title": "Just \u201cClone & Run\u201d Developer Experience using Testcontainers",
+      "title": "Just “Clone & Run” Developer Experience using Testcontainers",
       "publishedAt": "2023-09-20T23:19:44.000Z",
       "duration": "46:36",
       "url": "https://www.youtube.com/watch?v=PWTKMVb4HIY",
       "tags": [
         "Testcontainers",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PWTKMVb4HIY/sddefault.jpg"
     },
     {
       "title": "Is Java Relevant in 2023?",
@@ -1031,7 +1115,8 @@
       "url": "https://www.youtube.com/watch?v=UPmeFY_HWN0",
       "tags": [
         "Java"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UPmeFY_HWN0/sddefault.jpg"
     },
     {
       "title": "Spring Boot In Depth : 8 - How Spring Boot Auto Configuration Works?",
@@ -1042,7 +1127,8 @@
         "Auto Configuration",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7psf7h3VSOw/sddefault.jpg"
     },
     {
       "title": "Spring Boot 3.1.0 support for Testcontainers Service Connections and Local Development",
@@ -1057,14 +1143,16 @@
         "SpringBoot",
         "Testcontainers",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UuLD9gZmiZU/sddefault.jpg"
     },
     {
       "title": "How do I upskill myself, and what tools & techniques do I use?",
       "publishedAt": "2023-04-17T10:33:53.000Z",
       "duration": "30:38",
       "url": "https://www.youtube.com/watch?v=oOAaGvpQTCo",
-      "tags": []
+      "tags": [],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oOAaGvpQTCo/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy : Performance Testing using Gatling",
@@ -1076,7 +1164,8 @@
         "Java",
         "Performance Testing",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AYHeNNxXNDw/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy : End-To-End Testing using Playwright",
@@ -1088,7 +1177,8 @@
         "Java",
         "Playwright",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/B2bGxIqkuIM/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy : Testing External API Integrations using WireMock and MockServer",
@@ -1101,7 +1191,8 @@
         "REST API",
         "Testing",
         "WireMock"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1fLNqzmnLXc/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy: Testing Kafka, RabbitMQ Messaging Workflows using Testcontainers",
@@ -1115,7 +1206,8 @@
         "RabbitMQ",
         "Testcontainers",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9jZInwFtp44/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy : Testing Database Repositories using Testcontainers",
@@ -1126,7 +1218,8 @@
         "Java",
         "Testcontainers",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sWWwVAJ2cCw/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy : Integration Testing using Testcontainers",
@@ -1138,7 +1231,8 @@
         "Java",
         "Testcontainers",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hDs2R2ogho8/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy : Should I write more Unit Tests or Integration Tests?",
@@ -1150,7 +1244,8 @@
         "Java",
         "Testing",
         "Unit Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/U4_NRIEw_5w/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy : Unit Testing using Mockito",
@@ -1162,7 +1257,8 @@
         "Mockito",
         "Testing",
         "Unit Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2Tx0BIC20kk/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy: Quick tour of most commonly used JUnit 5 features",
@@ -1173,7 +1269,8 @@
         "JUnit",
         "Java",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/c8oLjWgR-po/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy: Why using Assertj assertions much better?",
@@ -1184,7 +1281,8 @@
         "AssertJ",
         "Java",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ri_fiEr3wMg/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy : Configuring JUnit 5 in Maven and Gradle Projects",
@@ -1195,7 +1293,8 @@
         "JUnit",
         "Java",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/w-pMwt7Exkc/sddefault.jpg"
     },
     {
       "title": "Migrate JUnit 4 tests to JUnit 5 using Intellij IDEA in One Click",
@@ -1207,7 +1306,8 @@
         "IntelliJ IDEA",
         "JUnit",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oY87wdzUuXE/sddefault.jpg"
     },
     {
       "title": "Java Testing Made Easy: Learn to write Unit, Integration, E2E & Performance Tests",
@@ -1217,7 +1317,8 @@
       "tags": [
         "Java",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FGoLvCc6BeI/sddefault.jpg"
     },
     {
       "title": "Awesome tip for creating a class from code snippet in Intellij IDEA",
@@ -1227,14 +1328,16 @@
       "tags": [
         "IDE Tips",
         "IntelliJ IDEA"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yTBZVW2UAv0/sddefault.jpg"
     },
     {
       "title": "Top 5 Tips to succeed in Technical Interviews",
       "publishedAt": "2023-02-23T06:11:52.000Z",
       "duration": "13:52",
       "url": "https://www.youtube.com/watch?v=xNf512h5bnU",
-      "tags": []
+      "tags": [],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xNf512h5bnU/sddefault.jpg"
     },
     {
       "title": "Spring Boot In Depth : 7 - Spring Bean Registration using Annotations and JavaConfig",
@@ -1245,7 +1348,8 @@
         "Annotations",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/a0an9e1FhS0/sddefault.jpg"
     },
     {
       "title": "Spring Boot In Depth : 6 - How Spring handles Transactions & Security using AOP/Proxies",
@@ -1259,7 +1363,8 @@
         "Spring Security",
         "SpringBoot",
         "Transactions"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jviq49ukATo/sddefault.jpg"
     },
     {
       "title": "Use this AWESOME IntelliJ IDEA tip to create a class quickly from a code snippet",
@@ -1269,7 +1374,8 @@
       "tags": [
         "IDE Tips",
         "IntelliJ IDEA"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hEIsIWzKSsw/sddefault.jpg"
     },
     {
       "title": "Spring Boot In Depth : 5 - How Spring uses Template Design Pattern",
@@ -1279,7 +1385,8 @@
       "tags": [
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pp5GP8VczMU/sddefault.jpg"
     },
     {
       "title": "Spring Boot In Depth : 4 - Understanding How Spring's Dependency Injection Work",
@@ -1290,7 +1397,8 @@
         "Dependency Injection",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/G35N2GfulFU/sddefault.jpg"
     },
     {
       "title": "Spring Boot In Depth : 3 - Understanding Dependency Injection",
@@ -1301,7 +1409,8 @@
         "Dependency Injection",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3yJfR9AZwCc/sddefault.jpg"
     },
     {
       "title": "Spring Boot In Depth : 2 - What you need to know before starting with Spring Boot",
@@ -1311,7 +1420,8 @@
       "tags": [
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wBK_tAMz82w/sddefault.jpg"
     },
     {
       "title": "Spring Boot In Depth : 1 - Introduction",
@@ -1321,7 +1431,8 @@
       "tags": [
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3tTS8rwV7zQ/sddefault.jpg"
     },
     {
       "title": "My Journey of Learning \"How to write better tests\"",
@@ -1330,7 +1441,8 @@
       "url": "https://www.youtube.com/watch?v=V7MlUhxXcsM",
       "tags": [
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/V7MlUhxXcsM/sddefault.jpg"
     },
     {
       "title": "Intellij IDEA - Live & File Templates : Supercharge your Intellij IDEA",
@@ -1340,7 +1452,8 @@
       "tags": [
         "IDE Tips",
         "IntelliJ IDEA"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pw9DUdk6dIM/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 25 : Wrap Up",
@@ -1352,7 +1465,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AHPPGwVlImg/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 24 : Kubernetes : Routing using Ingress",
@@ -1364,7 +1478,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IWSJS6LaWzI/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 23 : Kubernetes : Exposing pods using Services",
@@ -1376,7 +1491,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ylNBUViEy1A/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 22 : Kubernetes : Persistent Volumes and PV Claims",
@@ -1390,7 +1506,8 @@
         "Kubernetes",
         "Spring AI",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Zx3QftpHbfs/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 21 : Kubernetes : ConfigMaps and Secrets",
@@ -1402,7 +1519,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EWQIoGIp4y0/sddefault.jpg"
     },
     {
       "title": "Portainer - Docker Container Management GUI tool that you would love to use",
@@ -1412,7 +1530,8 @@
       "tags": [
         "Docker",
         "Portainer"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mxj5LMpE7WQ/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 20 : Kubernetes : Pods and Deployments",
@@ -1424,7 +1543,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/d1X85fhkSKM/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 19: Introducing Docker & Kubernetes, Kind Cluster",
@@ -1438,7 +1558,8 @@
         "Kind",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9-qtbC9OHP8/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 18 : Dockerizing NextJS Application",
@@ -1453,7 +1574,8 @@
         "Kubernetes",
         "NextJS",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1Pl7IYWHuwY/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 17 : Communication between Host & Docker Containers",
@@ -1468,7 +1590,8 @@
         "Kubernetes",
         "Spring AI",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MrMvtDs0qSI/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 16 : Implementing Add Bookmark Feature",
@@ -1482,7 +1605,8 @@
         "Kubernetes",
         "Project Tutorial",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GHUfOt2MSEc/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 15 : Implementing Bookmarks Search Feature",
@@ -1496,7 +1620,8 @@
         "Kubernetes",
         "Project Tutorial",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NO_ELJI5tlc/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 13 : Bookmarker UI Project SetUp using NextJS",
@@ -1512,7 +1637,8 @@
         "NextJS",
         "Project Tutorial",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/e21n6F39yG0/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 14 : Implementing Bookmarks Listing Page UI",
@@ -1526,7 +1652,8 @@
         "Kubernetes",
         "Project Tutorial",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Fv2xSRaCrmM/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 12 : Introduction to ReactJS & NextJS",
@@ -1541,7 +1668,8 @@
         "NextJS",
         "React",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/x5KMRG3bt1Q/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 11 : Local Dev environment setup using DockerCompose",
@@ -1555,7 +1683,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gNs-JTiOASY/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 10 : Implementing Create Bookmarks API",
@@ -1570,7 +1699,8 @@
         "Project Tutorial",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0blPxGg_thU/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 9 : Implementing Search Bookmarks API",
@@ -1585,7 +1715,8 @@
         "Project Tutorial",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CZ2zOCCEff0/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 8 : Continuous Integration using GitHub Actions",
@@ -1599,7 +1730,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qSMT3o48eI0/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 7:  Dockerizing SpringBoot Application",
@@ -1612,7 +1744,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5q4w-c2WUv0/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 6: API Integration Testing using Testcontainers",
@@ -1630,7 +1763,8 @@
         "SpringBoot",
         "Testcontainers",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2AwE9PsyqF8/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 5 : Using Spring Data JPA DTO Projections",
@@ -1645,7 +1779,8 @@
         "Kubernetes",
         "Spring Data JPA",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SMn-YezGkdA/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 4 : Database Migrations using Flyway",
@@ -1660,7 +1795,8 @@
         "Kubernetes",
         "Migration",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/q5pfc_bFK-Y/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 3 : Implementing GetBookmarks API",
@@ -1675,7 +1811,8 @@
         "Project Tutorial",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UhEMh-HZIMY/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 2 : ProjectSetup",
@@ -1687,7 +1824,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7UAqzQsSPEQ/sddefault.jpg"
     },
     {
       "title": "Spring Boot + Kubernetes Tutorial Series - Part 1 : Introduction",
@@ -1699,7 +1837,8 @@
         "Java",
         "Kubernetes",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pGbBuwzyiV4/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 10 - Generating Swagger docs for SpringBoot REST APIs",
@@ -1712,7 +1851,8 @@
         "OpenAPI",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ChBDDd7jXpo/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 9 - Monitoring Spring Boot applications using Spring Boot Admin",
@@ -1724,7 +1864,8 @@
         "Monitoring",
         "Spring Boot Admin",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Oydba8VHPZM/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 8 - Making SpringBoot Application Production Ready using Actuator",
@@ -1736,7 +1877,8 @@
         "Java",
         "Monitoring",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MUIekfhTyEo/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 7 - Exception Handling in SpringBoot REST APIs using problem-spring-web",
@@ -1748,7 +1890,8 @@
         "Java",
         "REST API",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hVfajuyEJMQ/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 6 - Exception Handling in SpringBoot Applications",
@@ -1759,7 +1902,8 @@
         "Exception Handling",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/riBHV6ux4nQ/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 5 - Integration Testing using Testcontainers",
@@ -1774,7 +1918,8 @@
         "SpringBoot",
         "Testcontainers",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/osw9dz2ZhhQ/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 4 - How to write Unit, Slice & Integration Tests in SpringBoot Applications",
@@ -1786,7 +1931,8 @@
         "Java",
         "SpringBoot",
         "Testing"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NzMIKpYpiZ4/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 3 - How to implement Logging in SpringBoot applications",
@@ -1797,7 +1943,8 @@
         "Java",
         "Logging",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tmj6QphzAPo/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 2 - Managing Application Configuration Properties In The Right Way",
@@ -1808,7 +1955,8 @@
         "Configuration",
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4OX7hbAGuRE/sddefault.jpg"
     },
     {
       "title": "Spring Boot Tips : Part 1 - How DependencyManagement works in SpringBoot applications",
@@ -1818,7 +1966,8 @@
       "tags": [
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2dPon1G5S-M/sddefault.jpg"
     },
     {
       "title": "Working with Multiple Java Versions using SDKMAN Easily",
@@ -1828,7 +1977,8 @@
       "tags": [
         "Java",
         "SDKMAN"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZywEiw3EO8A/sddefault.jpg"
     },
     {
       "title": "Better Alternatives To Generate Spring Boot Applications",
@@ -1838,7 +1988,8 @@
       "tags": [
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2E8r-HVLZGY/sddefault.jpg"
     },
     {
       "title": "Part 2: Using SpringBoot with Tomcat/Jetty/Undertow servers",
@@ -1848,7 +1999,8 @@
       "tags": [
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GYmKzt9CZeY/sddefault.jpg"
     },
     {
       "title": "Introduction To SpringBoot - Part1",
@@ -1858,7 +2010,8 @@
       "tags": [
         "Java",
         "SpringBoot"
-      ]
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gHrAXzGYbyQ/sddefault.jpg"
     }
   ]
 }
