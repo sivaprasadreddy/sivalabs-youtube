@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SivaLabs YouTube Channel - Videos</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-color: #6366f1;
+            --primary-hover: #4f46e5;
+            --navbar-bg: #1e293b;
+            --card-bg: #ffffff;
+            --card-hover: #f8f9fa;
+            --text-primary: #1e293b;
+            --text-secondary: #475569;
+            --text-muted: #64748b;
+            --border-color: #e2e8f0;
+            --tag-bg: #6366f1;
+            --tag-text: #ffffff;
+            --search-bg: #ffffff;
+            --shadow: rgba(0, 0, 0, 0.1);
+            --shadow-hover: rgba(99, 102, 241, 0.2);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%);
+            color: var(--text-primary);
+            min-height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav {
+            background-color: var(--navbar-bg);
+            padding: 16px 0;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #60a5fa;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+
+        .nav-link {
+            color: #e2e8f0;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            transition: background-color 0.3s;
+        }
+
+        .nav-link:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .nav-link.primary {
+            background-color: #3b82f6;
+            color: white;
+        }
+
+        .nav-link.primary:hover {
+            background-color: #2563eb;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: white;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .subtitle {
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 1.1rem;
+        }
+
+        .search-container {
+            max-width: 600px;
+            margin: 0 auto 40px;
+            position: relative;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 16px 50px 16px 20px;
+            font-size: 1rem;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 12px;
+            background: rgba(255, 255, 255, 0.95);
+            color: var(--text-primary);
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        .search-box:focus {
+            border-color: white;
+            background: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 18px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            pointer-events: none;
+        }
+
+        .stats {
+            text-align: center;
+            margin-bottom: 30px;
+            color: rgba(255, 255, 255, 0.95);
+            font-size: 0.95rem;
+            font-weight: 500;
+        }
+
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 24px;
+            margin-bottom: 40px;
+        }
+
+        .video-card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            border: none;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .video-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 24px var(--shadow-hover);
+        }
+
+        .video-content {
+            padding: 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .video-title {
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 12px;
+            line-height: 1.4;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            transition: color 0.3s ease;
+        }
+
+        .video-card:hover .video-title {
+            color: var(--primary-color);
+        }
+
+        .video-meta {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 12px;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: auto;
+            padding-top: 12px;
+        }
+
+        .tag {
+            background: var(--tag-bg);
+            color: var(--tag-text);
+            padding: 4px 12px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
+        .video-link {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            height: 100%;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 60px 20px;
+            color: white;
+            font-size: 1.2rem;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            backdrop-filter: blur(10px);
+        }
+
+        .no-results-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+            opacity: 0.8;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px 20px;
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 0.9rem;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: white;
+            font-size: 1.2rem;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            backdrop-filter: blur(10px);
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .video-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .search-box {
+                font-size: 0.95rem;
+            }
+        }
+
+        .highlight {
+            background-color: rgba(59, 130, 246, 0.3);
+            padding: 2px 0;
+            border-radius: 2px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="nav-container">
+            <div class="logo">SivaLabs</div>
+            <div class="nav-links">
+                <a href="https://www.youtube.com/@sivalabs" target="_blank" class="nav-link primary">YouTube Channel</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <header>
+            <h1>SivaLabs YouTube Channel</h1>
+            <p class="subtitle">Explore tutorials, guides, and insights</p>
+        </header>
+
+        <div class="search-container">
+            <input
+                type="text"
+                id="searchInput"
+                class="search-box"
+                placeholder="Search videos by title or tags..."
+                autocomplete="off"
+            >
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="11" cy="11" r="8"></circle>
+                <path d="m21 21-4.35-4.35"></path>
+            </svg>
+        </div>
+
+        <div class="stats" id="stats">
+            <span id="videoCount">Loading videos...</span>
+        </div>
+
+        <div id="videoGrid" class="video-grid">
+            <div class="loading">
+                <div>Loading videos...</div>
+            </div>
+        </div>
+
+        <footer>
+            <p>&copy; 2026 SivaLabs. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script>
+        let allVideos = [];
+        let filteredVideos = [];
+
+        // Load videos from JSON
+        async function loadVideos() {
+            try {
+                const response = await fetch('./videos.json');
+                const data = await response.json();
+                allVideos = data.videos || [];
+                filteredVideos = allVideos;
+                displayVideos(filteredVideos);
+                updateStats(filteredVideos.length, allVideos.length);
+            } catch (error) {
+                console.error('Error loading videos:', error);
+                document.getElementById('videoGrid').innerHTML = `
+                    <div class="no-results">
+                        <div class="no-results-icon">⚠️</div>
+                        <div>Failed to load videos. Please try again later.</div>
+                    </div>
+                `;
+            }
+        }
+
+        // Format date
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+            });
+        }
+
+        // Display videos
+        function displayVideos(videos) {
+            const grid = document.getElementById('videoGrid');
+
+            if (videos.length === 0) {
+                grid.innerHTML = `
+                    <div class="no-results">
+                        <div class="no-results-icon">🔍</div>
+                        <div>No videos found matching your search</div>
+                    </div>
+                `;
+                return;
+            }
+
+            grid.innerHTML = videos.map(video => `
+                <div class="video-card">
+                    <a href="${video.url}" target="_blank" rel="noopener noreferrer" class="video-link">
+                        <div class="video-content">
+                            <h3 class="video-title">${escapeHtml(video.title)}</h3>
+                            <div class="video-meta">
+                                <span class="meta-item">
+                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                    </svg>
+                                    ${formatDate(video.publishedAt)}
+                                </span>
+                                <span class="meta-item">
+                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <circle cx="12" cy="12" r="10"></circle>
+                                        <polyline points="12 6 12 12 16 14"></polyline>
+                                    </svg>
+                                    ${video.duration}
+                                </span>
+                            </div>
+                            ${video.tags && video.tags.length > 0 ? `
+                                <div class="tags">
+                                    ${video.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join('')}
+                                </div>
+                            ` : ''}
+                        </div>
+                    </a>
+                </div>
+            `).join('');
+        }
+
+        // Update statistics
+        function updateStats(showing, total) {
+            const statsEl = document.getElementById('videoCount');
+            if (showing === total) {
+                statsEl.textContent = `Showing all ${total} videos`;
+            } else {
+                statsEl.textContent = `Showing ${showing} of ${total} videos`;
+            }
+        }
+
+        // Search functionality
+        function searchVideos(query) {
+            const searchTerm = query.toLowerCase().trim();
+
+            if (searchTerm === '') {
+                filteredVideos = allVideos;
+            } else {
+                filteredVideos = allVideos.filter(video => {
+                    // Search in title
+                    const titleMatch = video.title.toLowerCase().includes(searchTerm);
+
+                    // Search in tags
+                    const tagsMatch = video.tags && video.tags.some(tag =>
+                        tag.toLowerCase().includes(searchTerm)
+                    );
+
+                    return titleMatch || tagsMatch;
+                });
+            }
+
+            displayVideos(filteredVideos);
+            updateStats(filteredVideos.length, allVideos.length);
+        }
+
+        // Escape HTML to prevent XSS
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            searchVideos(e.target.value);
+        });
+
+        // Load videos on page load
+        loadVideos();
+    </script>
+</body>
+</html>
